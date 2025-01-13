@@ -1,0 +1,24 @@
+h2{
+    text-align: center;
+    background-color: aquamarine;
+    border: 2px solid beige;
+}
+h3{text-decoration: wavy;
+text-rendering: geometricPrecision;}
+h4{text-transform: uppercase;
+text-decoration: line-through;
+text-decoration-line: initial;
+border-color: brown;
+border-style: groove;}
+h5{color: black;
+text-align: right;
+border-style: double;}
+
+.Adh{background-color: aqua;
+border: 5px solid seagreen;
+border-color: black;
+border-width: 8px;
+margin: 8px;
+padding: 20px;}
+
+table,th,tr,td{border-color: coral;border: width 8px;}
